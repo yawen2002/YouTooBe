@@ -1,0 +1,5 @@
+Flask
+youtube-dl
+git+https://github.com/openai/whisper.git
+torch
+flask-cors
